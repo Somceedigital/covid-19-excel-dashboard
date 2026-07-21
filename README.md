@@ -39,4 +39,7 @@ Our World in Data – COVID-19 Dataset
 - Filter results by country, continent, and year.
 
 ## Author
-**Chisom Chimezie(somceedigital)**
+
+**Chisom Chimezie**
+
+GitHub: @Somceedigital
